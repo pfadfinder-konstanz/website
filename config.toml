@@ -1,0 +1,47 @@
+baseURL = "https://pfadfinder-konstanz.de"
+languageCode = "de"
+DefaultContentLanguage = "de"
+title = "Pfadfinder DPSG Bruder Klaus Konstanz"
+theme = ["hugo-dpsg", "hugo-snap-gallery", "hugo-cloak-email"]
+
+[Params]
+  description = "Willkommen beim größten Pfadfinderstamm in Konstanz! Seit über 30 Jahren sind wir in allen Altersstufen aktiv."
+  copyright = "DPSG Stamm Bruder Klaus Konstanz"
+  opengraph = true # Enable OpenGraph if true
+  twitter_cards = true # Enable Twitter Cards if true
+  readmore = false # Show "Read more" button in list if true
+  authorbox = false # Show authorbox at bottom of pages if true
+  toc = false # Enable Table of Contents
+  pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
+  indexPager = false
+  post_meta = ["date", "categories", "translations"] # Order of post meta information
+  mainSections = ["post", "blog", "news"] # Specify section pages to show on home page and the "Recent articles" widget
+  dateformat = "02.01.2006" # Change the format of dates
+  mathjax = false
+  customCSS = [""] # Include custom CSS files
+  customJS = [""] # Include custom JS files
+
+[Params.style.vars]
+  highlightColor = "#003056" # Override highlight color
+
+[Params.logo]
+  image = "img/logo.png" # Logo image. Path relative to "static"
+  header = "img/header.jpg" # Logo image. Path relative to "static"
+  title = "Pfadfinder Bruder Klaus" # Logo title, otherwise will use site title
+  subtitle = "Allzeit bereit in Konstanz" # Logo subtitle
+
+# Used in authorbox
+[Author]
+  name = "Vorstand"
+  bio = "Die Stammesvorstände"
+  avatar = "img/avatar.png"
+
+[Params.sidebar]
+  home = "right" # Configure layout for home page
+  list = "right"  # Configure layout for list pages
+  single = "right" # Configure layout for single pages
+  widgets = ["ddg-search", "recent", "categories", "taglist", "social", "languages"]
+
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  tags_counter = false # Enable counter for each tag in "Tags" widget
