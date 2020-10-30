@@ -8,8 +8,7 @@ steps:
   commands:
   - git submodule update --init
 
-
-- name: syntaxcheck
+- name: build
   image: monachus/hugo:v0.75.1
   commands:
   - hugo
