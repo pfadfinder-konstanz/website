@@ -17,7 +17,6 @@ theme = ["hugo-dpsg", "hugo-snap-gallery", "hugo-cloak-email"]
   post_meta = ["date", "categories", "translations"] # Order of post meta information
   mainSections = ["post", "blog", "news"] # Specify section pages to show on home page and the "Recent articles" widget
   dateformat = "02.01.2006" # Change the format of dates
-  mathjax = false
   customCSS = [""] # Include custom CSS files
   customJS = [""] # Include custom JS files
 
