@@ -16,9 +16,10 @@ theme = ["hugo-dpsg", "hugo-snap-gallery", "hugo-cloak-email"]
   indexPager = false
   post_meta = ["date", "categories", "translations"] # Order of post meta information
   mainSections = ["post", "blog", "news"] # Specify section pages to show on home page and the "Recent articles" widget
+  photoSections = ["fotos"] # Specify section pages to show on home page and the "Recent photos" widget
   dateformat = "02.01.2006" # Change the format of dates
-  customCSS = [""] # Include custom CSS files
-  customJS = [""] # Include custom JS files
+  customCSS = [] # Include custom CSS files
+  customJS = [] # Include custom JS files
 
 [Params.style.vars]
   highlightColor = "#003056" # Override highlight color
@@ -39,7 +40,7 @@ theme = ["hugo-dpsg", "hugo-snap-gallery", "hugo-cloak-email"]
   home = "right" # Configure layout for home page
   list = "right"  # Configure layout for list pages
   single = "right" # Configure layout for single pages
-  widgets = ["ddg-search", "recent", "categories", "taglist", "social", "languages"]
+  widgets = ["ddg-search", "recent", "recent_photos", "categories", "taglist", "social", "languages"]
 
 [Params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
