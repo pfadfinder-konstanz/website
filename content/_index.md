@@ -14,6 +14,8 @@ Etwa die kekseverkaufenden Langweiler, die nur auf der Suche
 nach Omas sind, denen sie über die Straße helfen können? Oder die Irren, die
 mit Lendenschurz und Speer bewaffnet im Wald Tiere jagen?
 
+{{< figure src="img/stammesfoto.jpg" lightbox="none" alt="Foto des Stammes in Westernohe" >}}
+
 **Weit gefehlt!**\
 Wir sind über 50 Leute in Konstanz (und weltweit mehr als 41 Millionen), die
 eine Sache verbindet: Gemeinsam Zeit verbringen, sei es beim Zelten, Wandern,
