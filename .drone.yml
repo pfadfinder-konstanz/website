@@ -10,7 +10,14 @@ steps:
 
 - name: build
   image: monachus/hugo:v0.75.1
+  environment:
+    PIWIK_URL:
+      from_secret: piwik_url
+    PIWIK_TOKEN_AUTH:
+      from_secret: piwik_token_auth
   commands:
+  - sed -i -e 's/%PIWIK_URL%/$PIWIK_URL/' static/config.php
+  - sed -i -e 's/%PIWIK_TOKEN_AUTH%/$PIWIK_TOKEN_AUTH/' static/config.php
   - hugo
 
 - name: deploy
