@@ -17,7 +17,7 @@ mit Lendenschurz und Speer bewaffnet im Wald Tiere jagen?
 {{< figure src="img/stammesfoto.jpg" lightbox="none" alt="Foto des Stammes in Westernohe" >}}
 
 **Weit gefehlt!**\
-Wir sind über 50 Leute in Konstanz (und weltweit mehr als 41 Millionen), die
+Wir sind etwa 100 Leute in Konstanz (und weltweit mehr als 41 Millionen), die
 eine Sache verbindet: Gemeinsam Zeit verbringen, sei es beim Zelten, Wandern,
 Grillen oder Kartenspielen. Dabei ist es uns egal, wer welche Hautfarbe,
 Religion, Herkunft oder Bildung hat. Bei uns sind alle willkommen, die
