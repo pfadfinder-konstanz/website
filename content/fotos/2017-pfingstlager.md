@@ -1,5 +1,6 @@
 ---
 title: "Pfingstlager 2017 in Westernohe"
+slug: "pfingstlager-westernohe"
 page: true
 thumbnail: "fotos/2017/pfingstlager/2017-06-04_19:47:30_Pfingstlager-2017.jpg"
 thumbnail_hide_post: true

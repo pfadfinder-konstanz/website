@@ -4,7 +4,7 @@ page: true
 menu:
   main:
     name: "Fotos"
-    weight: 8
+    weight: 4
 ---
 
 Pfadfinder sind unterwegs. Und manchmal gibt es davon auch ein paar Bilder, die

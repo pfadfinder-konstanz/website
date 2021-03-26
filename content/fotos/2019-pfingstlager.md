@@ -1,5 +1,6 @@
 ---
 title: "Pfingstlager 2019 im Wilden Westen"
+slug: "pfingstlager-wilder-westen"
 page: true
 thumbnail: "fotos/2019/pfingstlager/2019-06-14_10:55:31_Pfingstlager-2019.jpg"
 thumbnail_hide_post: true

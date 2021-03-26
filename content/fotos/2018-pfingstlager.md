@@ -1,5 +1,6 @@
 ---
 title: "Pfingstlager 2018 im Orient"
+slug: "pfingstlager-orient"
 page: true
 thumbnail: "fotos/2018/pfingstlager/2018-05-20_10:34:30_Pfingstlager-2018.jpg"
 thumbnail_hide_post: true

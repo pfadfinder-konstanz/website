@@ -4,6 +4,10 @@ DefaultContentLanguage = "de"
 title = "Pfadfinder DPSG Bruder Klaus Konstanz"
 theme = ["hugo-dpsg", "hugo-snap-gallery", "hugo-cloak-email"]
 
+[permalinks]
+  news = "news/:year/:slug/"
+  fotos = "fotos/:year/:slug/"
+
 [Params]
   description = "Willkommen beim größten Pfadfinderstamm in Konstanz! Seit über 30 Jahren sind wir in allen Altersstufen aktiv."
   copyright = "DPSG Stamm Bruder Klaus Konstanz"
