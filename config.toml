@@ -52,4 +52,4 @@ theme = ["hugo-dpsg", "hugo-snap-gallery", "hugo-cloak-email"]
   tags_counter = false # Enable counter for each tag in "Tags" widget
 
 [Params.footer]
-  text = "[Impressum und Datenschutz](/impressum)" # Extra text in footer row, understands markdown
+  right = "[Impressum und Datenschutz](/impressum)" # Extra text in footer row, understands markdown
