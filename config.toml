@@ -8,6 +8,9 @@ theme = ["hugo-dpsg", "hugo-snap-gallery", "hugo-cloak-email"]
   news = "news/:year/:slug/"
   fotos = "fotos/:year/:slug/"
 
+[markup.goldmark.renderer]
+  unsafe= true
+
 [Params]
   description = "Willkommen beim größten Pfadfinderstamm in Konstanz! Seit über 30 Jahren sind wir in allen Altersstufen aktiv."
   copyright = "DPSG Stamm Bruder Klaus Konstanz"
