@@ -1,0 +1,6 @@
+.content ol {
+  list-style-type: upper-latin;
+}
+.content ol > li > ol {
+  list-style-type: decimal;
+}

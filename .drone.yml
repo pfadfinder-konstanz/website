@@ -8,6 +8,20 @@ steps:
   commands:
   - git submodule update --init
 
+- name: songbook
+  image: alpine:3
+  volumes:
+    - name: tmp
+      path: /tmp
+  commands:
+    - wget -O /tmp/Songbook.tar.gz https://src.mehl.mx/attachments/e4b9e058-ea5b-4964-bd22-d6cd18a2fd99
+    - tar -xzf /tmp/Songbook.tar.gz -C /tmp
+    # copy all songs and songbook pdf
+    - mkdir static/songbook/
+    - cp /tmp/Songs/* /tmp/Songbook.pdf static/songbook/
+    # copy songbook.md
+    - cp /tmp/songbook.md content/
+
 - name: build
   image: monachus/hugo:v0.75.1
   environment:
@@ -34,3 +48,7 @@ steps:
     source: public/*
     rm: true
     strip_components: 1
+
+volumes:
+- name: tmp
+  temp: {}

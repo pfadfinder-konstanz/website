@@ -1,2 +1,5 @@
 public/
 resources/
+# Songbook, filled automatically
+static/songbook/
+content/songbook.md
