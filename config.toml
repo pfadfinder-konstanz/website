@@ -3,6 +3,7 @@ languageCode = "de"
 DefaultContentLanguage = "de"
 title = "Pfadfinder DPSG Bruder Klaus Konstanz"
 theme = ["hugo-dpsg", "hugo-snap-gallery", "hugo-cloak-email"]
+disableKinds = ["RSS"]
 
 [permalinks]
   news = "news/:year/:slug/"
