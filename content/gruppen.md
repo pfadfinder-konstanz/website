@@ -16,12 +16,16 @@ nicht und freuen uns immer sehr über Zuwachs!
 
 ## Wölflinge (6-10 Jahre)
 
+{{< figure src="/img/gruppen/wös.jpg" >}}
+
 In der Kinderstufe stehen die Wölflinge am Anfang einer Entdeckungsreise, in der
 sie bis zum 10. Lebensjahr vieles lernen, ausprobieren und erleben können.
 
 Die "Wös" treffen sich jeden Dienstag von 17:00 - 18:30 Uhr.
 
 ## Jungpfadfinder (10-13 Jahre)
+
+{{< figure src="/img/gruppen/jupfis.jpg" >}}
 
 Bei den "Jupfis" dreht sich alles ums Abenteuer! Sie bereiten schon die ersten
 Aktionen unter Anleitung selbstständig vor.
@@ -30,6 +34,8 @@ Diese wilde Meute kommt immer Montags von 18:00 - 19:30 Uhr zusammen.
 
 ## Pfadfinder (13-16 Jahre)
 
+{{< figure src="/img/gruppen/pfadis.jpg" >}}
+
 Die Pfadfinderstufe steht unter dem Motto "Wagt Es!". Mit Gruppe und
 Leitungsteam im Rücken wird das Motto zum Programm, voller Freiheit aber auch
 mit mehr Verantwortung.
@@ -37,6 +43,8 @@ mit mehr Verantwortung.
 Die Wagemutigen treffen sich jeden Donnerstag von 18:00 - 19:30 Uhr.
 
 ## Rover (16-20 Jahre)
+
+{{< figure src="/img/gruppen/rover.jpg" >}}
 
 Rover sind unterwegs – nicht nur unterwegs zu verschiedenen Orten, sondern auch
 unterwegs von Jugendlichen zu Erwachsenen. Sie haben buchstäblich grenzenlose
