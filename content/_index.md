@@ -1,13 +1,11 @@
 ---
-title: "Start"
+title: "Pfadfinder in Konstanz"
 page: true
 menu:
   main:
     name: "Start"
     weight: 1
 ---
-
-# Pfadfinder in Konstanz
 
 **Pfadfinder?**\
 Etwa die kekseverkaufenden Langweiler, die nur auf der Suche
