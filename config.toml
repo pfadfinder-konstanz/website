@@ -27,9 +27,10 @@ disableKinds = ["RSS"]
   photoSections = ["fotos"] # Specify section pages to show on home page and the "Recent photos" widget
   photoTag = "fotos" # Specify one tag to show on home page and the "Recent photos" widget. Similar as photoSections, but with 1 tag instead of 1 or multiple sections
   dateformat = "02.01.2006" # Change the format of dates
-  customCSS = [] # Include custom CSS files
+  customCSS = ["/css/custom.css"] # Include custom CSS files
   customJS = [] # Include custom JS files
-  customPartial = "piwik.html" # Include custom partials
+  customPartial = "piwik.html" # Include custom partial at the end of the page
+  belowTitlePartial = "leitersuche.html" # Include custom partial below the pages title
 
 [Params.style.vars]
   highlightColor = "#003056" # Override highlight color

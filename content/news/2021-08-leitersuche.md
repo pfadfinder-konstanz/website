@@ -5,6 +5,7 @@ page: true
 thumbnail: "/fotos/2021/leitersuche/thumbnail.jpg"
 date: 2021-08-29
 lead: Schau doch einfach mal vorbei
+noBelowTitlePartial: true
 ---
 
 Zu wenige Gruppenkinder oder zu wenige Leiter – über eins davon beklagen sich
