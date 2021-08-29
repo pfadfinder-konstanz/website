@@ -7,3 +7,6 @@ RewriteRule ^(.*)$ https://%1/$1 [R=301,L]
 
 # Error documents
 ErrorDocument 404 /404.html
+
+# Shortlinks
+RewriteRule ^sbgit/?$ https://src.mehl.mx/mxmehl/songbook [R=301,L]
