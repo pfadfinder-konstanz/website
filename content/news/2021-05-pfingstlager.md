@@ -1,6 +1,6 @@
 ---
 title: "Pfingstlager 2021"
-slug: "pfingstlager-2021"
+slug: "gruppen-pfingstlager"
 page: true
 thumbnail: "/fotos/2021/pfingstlager/thumbnail.jpg"
 thumbnail_hide_post: false
