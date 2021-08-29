@@ -6,6 +6,8 @@ thumbnail: "/fotos/2020/bollerwagentour/6-abschluss.jpg"
 thumbnail_hide_post: false
 date: 2020-08-01
 lead: Ein Erlebnisbericht von Mila
+tags: ["fotos"]
+aliases: /fotos/2020/bollerwagentour-woelflinge/
 ---
 
 Wegen Corona mussten in diesem Jahr leider die ganzen Lager ausfallen. Umso mehr

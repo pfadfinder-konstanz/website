@@ -1,10 +1,10 @@
 ---
 title: "Fotos von Aktionen"
-page: true
 menu:
   main:
     name: "Fotos"
     weight: 4
+aliases: ["/fotos"]
 ---
 
 Pfadfinder sind unterwegs. Und manchmal gibt es davon auch ein paar Bilder, die

@@ -5,6 +5,8 @@ page: true
 thumbnail: "fotos/2017/pfingstlager/2017-06-04_19:47:30_Pfingstlager-2017.jpg"
 thumbnail_hide_post: true
 date: 2017-06-03
+tags: ["fotos"]
+aliases: /fotos/2017/pfingstlager-westernohe/
 ---
 
 Dieses Jahr sind wir nach Westernohe gefahren, ins Bundeszentrum unseres

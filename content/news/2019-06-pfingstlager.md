@@ -5,6 +5,8 @@ page: true
 thumbnail: "fotos/2019/pfingstlager/2019-06-14_10:55:31_Pfingstlager-2019.jpg"
 thumbnail_hide_post: true
 date: 2019-06-08
+tags: ["fotos"]
+aliases: /fotos/2019/pfingstlager-wilder-westen/
 ---
 
 Yeehaa! Mit gesattelten Pferden ritten Cowgirls und Indianer an Pfingsten in den

@@ -6,6 +6,7 @@ thumbnail: "/fotos/2021/pfingstlager/thumbnail.jpg"
 thumbnail_hide_post: false
 date: 2021-05-28
 lead: Lager mal anders
+tags: ["fotos"]
 ---
 
 2020 musste das Pfingstlager ausfallen, und auch 2021 drohte uns dasselbe. Doch
