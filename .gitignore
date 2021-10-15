@@ -1,5 +1,8 @@
 public/
 resources/
+# Env file for local secrets
+.env
+static/config.php
 # Songbook, filled automatically
 static/songbook/
 content/songbook.md

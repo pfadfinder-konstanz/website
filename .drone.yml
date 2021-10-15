@@ -22,7 +22,7 @@ steps:
     - wget -O /tmp/Songbook.tar.gz https://src.mehl.mx/attachments/f4bd9648-2041-4414-8914-32cf6a854e5f
     - tar -xzf /tmp/Songbook.tar.gz -C /tmp
     # copy all songs and songbook pdf
-    - mkdir static/songbook/
+    - mkdir -p static/songbook/
     - cp /tmp/Songs/* /tmp/Songbook.pdf static/songbook/
     # copy songbook.md
     - cp /tmp/songbook.md content/
@@ -35,6 +35,7 @@ steps:
     PIWIK_TOKEN_AUTH:
       from_secret: piwik_token_auth
   commands:
+  - cp static/config.sample.php static/config.php
   - sed -i -e "s|%PIWIK_URL%|$PIWIK_URL|" static/config.php
   - sed -i -e "s|%PIWIK_TOKEN_AUTH%|$PIWIK_TOKEN_AUTH|" static/config.php
   - hugo
