@@ -1,6 +1,11 @@
 ---
 kind: pipeline
-name: default
+name: deployment
+type: docker
+
+platform:
+  arch: amd64
+  os: linux
 
 steps:
 - name: submodules
