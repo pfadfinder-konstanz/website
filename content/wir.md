@@ -8,9 +8,9 @@ menu:
 
 ## Was sind Pfadfinder?
 
-Pfadfinder sind mit mehr 60 Millionen Mitgliedern die weltgrößte Jugendbewegung,
-und unser Stamm mit rund 100 Mitgliedern ist ein Teil davon. Die Pfadfinder sind
-in viele verschiedene Verbände untergliedert, darunter die
+Pfadfinder sind mit mehr als 60 Millionen Mitgliedern die weltgrößte
+Jugendbewegung, und unser Stamm mit über 100 Mitgliedern ist ein Teil davon. Die
+Pfadfinder sind in viele verschiedene Verbände untergliedert, darunter die
 [DPSG](https://dpsg.de) (*Deutsche Pfadfinderschaft Sankt Georg*), der wir
 angehören.
 
@@ -22,7 +22,7 @@ zu ermutigen, Verantwortung für sich, ihre Mitmenschen und ihre Umwelt zu
 Säulen, die wir je nach Altersstufe spielerisch oder ernsthafter vermitteln.
 
 A propos Altersstufen: In unserem Verband gibt es fünf davon, von Wölflingen bis
-hin zu Leitern. Alle freuen sich über neue Mitglieder, und Du kannst auf der
+hin zu Leitern. Alle freuen sich über neue Mitglieder und Du kannst auf der
 [Gruppenseite](/gruppen) mehr darüber erfahren.
 
 ## Was machen wir so?

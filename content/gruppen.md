@@ -50,7 +50,7 @@ Rover sind unterwegs – nicht nur unterwegs zu verschiedenen Orten, sondern auc
 unterwegs von Jugendlichen zu Erwachsenen. Sie haben buchstäblich grenzenlose
 Freiheit, um sich selbst und ihre Aktionen zu verwirklichen.
 
-Für gewöhnlich treffen sich die Rover immer Donnerstag von 19:00 - 20:30 Uhr.
+Für gewöhnlich treffen sich die Rover immer am Donnerstag von 19:30 - 21:00 Uhr.
 
 ## Leiterinnen und Leiter
 
@@ -60,12 +60,12 @@ ja viele Aktionen und reden über Organisatorisches – ist eigentlich die Krön
 des Pfadfinderseins!
 
 Wir sind ein bunter Haufen, von jung bis mittelalt, und freuen uns sowohl über
-ausgewachsene Rover als auch erfahrene Hasen. Und weil es meist eher an Leitern
-als an Gruppenkindern mangelt, gib Dir doch einen Ruck und [schreib
-uns](/kontakt), wenn Du Dir vorstellen kannst, Leiterin oder Leiter bei uns zu
-werden!
+ausgewachsene Rover, erfahrene Hasen oder frische Neueinsteiger. Und weil es
+meist eher an Leitern als an Gruppenkindern mangelt, gib Dir doch einen Ruck und
+[schreib uns](/kontakt), wenn Du Dir vorstellen kannst, Leiterin oder Leiter bei
+uns zu werden!
 
 Die "Leiter" der Leitungsrunde sind die Vorstände. Sie tragen die Verantwortung
 für den Stamm und vertreten ihn nach außen.
 
-Unsere reguläre Leitungsrunde findet jeden zweiten Dienstag um 20:00 Uhr statt.
+Unsere reguläre Leitungsrunde findet jeden zweiten Mittwoch um 19:00 Uhr statt.

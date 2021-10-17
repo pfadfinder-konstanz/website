@@ -19,8 +19,8 @@ Markgrafenstraße 34\
 
 ## Vorstand
 
-Der aktuelle Vorstand ist Erik Ruckebier. Du erreichst ihn ebenfalls über die
-oben genannte E-Mail-Adresse.
+Die aktuellen Vorstände sind Patrick Abdelhak und Max Mehl. Du erreichst sie
+ebenfalls über die oben genannte E-Mail-Adresse.
 
 ## Anfahrt
 
