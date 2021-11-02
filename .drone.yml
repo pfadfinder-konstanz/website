@@ -19,7 +19,7 @@ steps:
     - name: tmp
       path: /tmp
   commands:
-    - wget -O /tmp/Songbook.tar.gz https://src.mehl.mx/attachments/f4bd9648-2041-4414-8914-32cf6a854e5f
+    - wget -O /tmp/Songbook.tar.gz https://src.mehl.mx/mxmehl/songbook/releases/download/2.0-rc4/Songbook.tar.gz
     - tar -xzf /tmp/Songbook.tar.gz -C /tmp
     # copy all songs and songbook pdf
     - mkdir -p static/songbook/
