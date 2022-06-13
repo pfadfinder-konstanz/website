@@ -13,20 +13,6 @@ steps:
   commands:
   - git submodule update --init
 
-- name: songbook
-  image: alpine:3
-  volumes:
-    - name: tmp
-      path: /tmp
-  commands:
-    - wget -O /tmp/Songbook.tar.gz https://src.mehl.mx/mxmehl/songbook/releases/download/2.0-rc4/Songbook.tar.gz
-    - tar -xzf /tmp/Songbook.tar.gz -C /tmp
-    # copy all songs and songbook pdf
-    - mkdir -p static/songbook/
-    - cp /tmp/Songs/* /tmp/Songbook.pdf static/songbook/
-    # copy songbook.md
-    - cp /tmp/songbook.md content/
-
 - name: build
   image: monachus/hugo:v0.75.1
   environment:
@@ -39,19 +25,6 @@ steps:
   - sed -i -e "s|%PIWIK_URL%|$PIWIK_URL|" static/config.php
   - sed -i -e "s|%PIWIK_TOKEN_AUTH%|$PIWIK_TOKEN_AUTH|" static/config.php
   - hugo
-
-- name: password
-  image: node:slim
-  volumes:
-    - name: tmp
-      path: /tmp
-  environment:
-    PAGE_PASSWORD:
-      from_secret: page_password
-  commands:
-    - npm install -g staticrypt
-    - mv public/songbook/index.html /tmp/
-    - staticrypt /tmp/index.html $PAGE_PASSWORD -t "Passwort für Songbook" -o public/songbook/index.html
 
 - name: deploy
   image: appleboy/drone-scp
