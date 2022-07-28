@@ -1,5 +1,6 @@
 public/
 resources/
+.hugo_build.lock
 # Env file for local secrets
 .env
 static/config.php
