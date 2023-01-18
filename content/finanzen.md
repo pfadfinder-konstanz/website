@@ -3,8 +3,6 @@ title: "Finanzielle Unterstützung"
 page: true
 ---
 
-## Finanzielle Unterstützung
-
 Eines unserer Ziele ist es, dass Pfadfindersein für alle möglich ist. Das gilt
 auch für jene, deren Familien nicht viel Geld haben. Deswegen ist es für uns
 wichtig, dass die Beiträge für Lager und andere Aktionen bezahlbar und
