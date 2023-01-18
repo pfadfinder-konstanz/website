@@ -1,0 +1,49 @@
+name: Deploy website
+
+on:
+  push:
+    branches:
+      - master
+      - main
+  pull_request:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Checkout submodules
+        uses: actions/checkout@v3
+        with:
+          submodules: true
+          fetch-depth: 0
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+
+      - name: Replace secrets
+        env:
+          PIWIK_URL: ${{ secrets.PIWIK_URL }}
+          PIWIK_TOKEN_AUTH: ${{ secrets.PIWIK_TOKEN_AUTH }}
+        run: |
+          cp static/config.sample.php static/config.php
+          sed -i -e "s|%PIWIK_URL%|$PIWIK_URL|" static/config.php
+          sed -i -e "s|%PIWIK_TOKEN_AUTH%|$PIWIK_TOKEN_AUTH|" static/config.php
+
+      - name: Build website
+        run: hugo
+
+      - name: Copy website to host
+        uses: appleboy/scp-action@v0.1.3
+        with:
+          host: pfadfinder-konstanz.de
+          username: pfadiskn
+          key: ${{ secrets.SSH_KEY }}
+          port: 22
+          timeout: 1m
+          command_timeout: 2m
+          target: "/var/www/virtual/pfadiskn/html/"
+          source: "public/*"
+          rm: true
+          strip_components: 1
