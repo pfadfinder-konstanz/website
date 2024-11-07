@@ -42,7 +42,7 @@ disableKinds = ["RSS"]
   subtitle = "Allzeit bereit in Konstanz" # Logo subtitle
 
 # Used in authorbox
-[Author]
+[Params.Author]
   name = "Vorstand"
   bio = "Die Stammesvorstände"
   avatar = "img/avatar.png"
