@@ -26,7 +26,7 @@ Markgrafenstraße 34\
 
 #### Vertreten durch den Vorstand
 
-Patrick Abdelhak und Lisa Stadler
+Lisa Stadler und Sophie Hyllus
 
 
 ## Datenschutzerklärung

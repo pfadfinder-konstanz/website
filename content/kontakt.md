@@ -19,7 +19,7 @@ Markgrafenstraße 34\
 
 ## Vorstand
 
-Die aktuellen Vorstände sind Patrick Abdelhak und Lisa Stadler. Du erreichst sie
+Die aktuellen Vorstände sind Lisa Stadler und Sophie Hyllus. Du erreichst sie
 ebenfalls über die oben genannte E-Mail-Adresse.
 
 ## Anfahrt
